@@ -6,3 +6,7 @@ Multimodal Image/Tabular Modal:
   
   
  To create your environment you can use the requirement.txt if you use a 64 Windows architecture and anaconda suite.
+
+Dataset:
+Train tabular dataset: DATASET1304.csv
+Test tabular dataset: DATASET1304.csv
