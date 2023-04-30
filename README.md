@@ -1,7 +1,7 @@
 # multimodal-vit
 Multimodal Image/Tabular Modal: 
 
-  - Fast AI & Image_tabular : Fuse tabular and images models
+  - Notebook fastai-multimodal.ipynb: Fast AI & Image_tabular : Fuse tabular and images models
   - Demo of OpenAI Clip
   
   
