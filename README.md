@@ -1,5 +1,5 @@
 # multimodal-vit
-MultimodalImage/Tabular Modal: 
+Multimodal Image/Tabular Modal: 
 
   - Fast AI & Image_tabular : Fuse tabular and images models
   - Demo of OpenAI Clip
