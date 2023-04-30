@@ -1,0 +1,11 @@
+TMJA,LANES,TYPE TRAIT,HAS SHOULDER,VITESSE LIMITE,TR,P_PENETRANTE,P_PEAGE,P_AIRE_SERVICE,ENTREE VILLE,DMU,SCORE,Image
+10588,3,1,1,60,3,1,0,0,0,14,1,intersection.46
+10588,6,0,0,120,0,0,1,0,0,14,1,intersection.29
+11003,3,1,0,80,2,0,0,0,1,2,1,rectiligne.12
+11003,2,1,0,60,2,0,0,0,1,2,1,intersection.10
+4786,2,1,0,60,2,0,0,0,1,1,1,intersection.13
+3727,2,0,0,60,0,0,0,0,0,6,1,intersection.16
+10033,2,1,0,100,2,1,0,0,1,1,0,rectiligne.39
+10033,2,1,0,60,2,0,0,0,1,1,0,intersection.22
+10033,4,0,1,60,14,0,0,0,0,12,0,intersection.18
+15628,2,1,0,60,10,0,0,0,0,9,1,intersection.46
